@@ -1,1 +1,3 @@
 ### testing untuk conflict
+
+squashing-1
